@@ -33,4 +33,4 @@ Install colorama with pip
 
 
 ## Reference Photo
-![alt text](<Screenshot 2024-07-11 042058.png>)
+![alt text](https://github.com/satvikh/Discord-Autotyper/blob/main/AutotyperSS.png?raw=true)
