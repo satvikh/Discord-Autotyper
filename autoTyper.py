@@ -5,7 +5,7 @@ import time
 
     
 
-
+config.colorama_init()
 interval=config.initialize()
 config.countdown()
 
